@@ -5,7 +5,13 @@ body{
 #pai{
     width: 996px;
     height: 900px;
+    border: 1px solid black;
     position: relative;
     left: 100px;
+
+}
+
+#filhoum{
+    padding-top: 20px;
 }
 
