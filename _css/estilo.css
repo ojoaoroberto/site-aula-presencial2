@@ -1,0 +1,11 @@
+body{
+    background: rgb(136, 136, 234);
+}
+
+#pai{
+    width: 996px;
+    height: 900px;
+    position: relative;
+    left: 100px;
+}
+
